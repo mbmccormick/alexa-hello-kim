@@ -1,0 +1,86 @@
+{
+  "interactionModel": {
+      "languageModel": {
+          "invocationName": "hello kim",
+          "intents": [
+              {
+                  "name": "AUDIO",
+                  "samples": [
+                      "sounds",
+                      "coffee shop sounds"
+                  ]
+              },
+              {
+                  "name": "PICTURE",
+                  "samples": [
+                      "picture"
+                  ]
+              },
+              {
+                  "name": "FACTS",
+                  "samples": [
+                      "fact",
+                      "facts",
+                      "coffee fact",
+                      "coffee facts"
+                  ]
+              },
+              {
+                  "name": "SOURCECODE",
+                  "samples": [
+                      "source code",
+                      "send me the source code"
+                  ]
+              },
+              {
+                  "name": "AMAZON.CancelIntent"
+              },
+              {
+                  "name": "AMAZON.HelpIntent"
+              },
+              {
+                  "name": "AMAZON.StopIntent"
+              },
+              {
+                  "name": "AMAZON.MoreIntent"
+              },
+              {
+                  "name": "AMAZON.NavigateHomeIntent"
+              },
+              {
+                  "name": "AMAZON.NavigateSettingsIntent"
+              },
+              {
+                  "name": "AMAZON.NextIntent"
+              },
+              {
+                  "name": "AMAZON.PageUpIntent"
+              },
+              {
+                  "name": "AMAZON.PageDownIntent"
+              },
+              {
+                  "name": "AMAZON.PreviousIntent"
+              },
+              {
+                  "name": "AMAZON.ScrollRightIntent"
+              },
+              {
+                  "name": "AMAZON.ScrollDownIntent"
+              },
+              {
+                  "name": "AMAZON.ScrollLeftIntent"
+              },
+              {
+                  "name": "AMAZON.ScrollUpIntent"
+              },
+              {
+                  "name": "AMAZON.PauseIntent"
+              },
+              {
+                  "name": "AMAZON.ResumeIntent"
+              }
+          ]
+      }
+  }
+}
